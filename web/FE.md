@@ -25,8 +25,48 @@ HTML CSS JS
 
 ---
 + JS
-	+ from youtube Java Brains javascript tutorial
-	+ 
+	+ reference from youtube Java Brains javascript tutorial
+	+ why learn javascript
+		+ client side web development
+			+ Native javascript
+			+ jQuery
+			+ AngularJS, React, Ember
+		+ Server side development
+			+ NodeJS, Express
+		+ Brower extensions
+		+ Desktop applications
+		+ Mobile applications
+		+ IOT applications
+	+ variable declaration
+		+ color difference by different variable type
+		+ number primitive type
+		+ String
+			+ no character type, one character is just a String of length 1
+		+ boolean
+		+ undefined
+			+ is a type, just has one value: undefined
+			+ a variable without definition, the value is undefined
+			+ declaration and definition
+				+ var value is declaration
+				+ value = 42 is definition
+		+ null
+			+ is a type, just has one value: null
+		+ the difference between undefined and null
+	+ primitive types in JS
+		+ Number
+		+ String
+		+ Boolean
+		+ undefined
+		+ null
+		+ Symbol
+	+ the typeof operator
+		+ var a = 10; console.log(typeof a);
+		+ the bug in js:
+			+ var a = null; console.log(typeof a);
+			+ result is object type; but should be null type
+	+ type coercion and === operator
+---
++ ..
 	+ 表单验证 ***
 	+ 通过javascript查找html元素
 	 	+ 通过id
