@@ -22,7 +22,11 @@ HTML CSS JS
 			+ document.createTextNode
 			+ appendChild, removeChild. child.parentNode.removeChild(child)
 + CSS
+
+---
 + JS
+	+ from youtube Java Brains javascript tutorial
+	+ 
 	+ 表单验证 ***
 	+ 通过javascript查找html元素
 	 	+ 通过id
