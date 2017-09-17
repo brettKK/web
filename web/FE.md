@@ -65,6 +65,7 @@ HTML CSS JS
 			+ var a = null; console.log(typeof a);
 			+ result is object type; but should be null type
 	+ type coercion and === operator
+		+ === do not type conversation
 ---
 + ..
 	+ 表单验证 ***
