@@ -66,6 +66,7 @@ HTML CSS JS
 			+ result is object type; but should be null type
 	+ type coercion and === operator
 		+ === do not type conversation
+		+ every type is associated with boolean
 ---
 + ..
 	+ 表单验证 ***
