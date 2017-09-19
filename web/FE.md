@@ -67,6 +67,11 @@ HTML CSS JS
 	+ type coercion and === operator
 		+ === do not type conversation
 		+ every type is associated with boolean
+	+ Objects
+	 	+ Objects in js behave more like a map
+	+ the dot and bracket notations
+		+ access to the object property
+
 ---
 + ..
 	+ 表单验证 ***
