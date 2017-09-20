@@ -71,6 +71,9 @@ HTML CSS JS
 	 	+ Objects in js behave more like a map
 	+ the dot and bracket notations
 		+ access to the object property
+		+ the difference
+			+ property is bad name, you should use bracket to get the value
+			+
 
 ---
 + ..
