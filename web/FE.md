@@ -78,7 +78,7 @@ HTML CSS JS
 	+ revisit undefined vs null
 	+ delete properties with the delete operator
 		+ delete person.age egs.
-	+ introds Arrays
+	+ introdus Arrays
 			+ 
 ---
 + ..
