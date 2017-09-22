@@ -73,8 +73,13 @@ HTML CSS JS
 		+ access to the object property
 		+ the difference
 			+ property is bad name, you should use bracket to get the value
-			+
-
+	+ nested object
+	+ revisit === for objects
+	+ revisit undefined vs null
+	+ delete properties with the delete operator
+		+ delete person.age egs.
+	+ introds Arrays
+			+ 
 ---
 + ..
 	+ 表单验证 ***
