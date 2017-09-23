@@ -79,7 +79,11 @@ HTML CSS JS
 	+ delete properties with the delete operator
 		+ delete person.age egs.
 	+ introdus Arrays
-			+ 
+	+ wrapper object
+	+ Functions
+	 	+ flexible argument counts
+		+ no type for argument
+	+
 ---
 + ..
 	+ 表单验证 ***
