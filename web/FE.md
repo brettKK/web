@@ -83,6 +83,8 @@ HTML CSS JS
 	+ Functions
 	 	+ flexible argument counts
 		+ no type for argument
+		+ arguments in function is not a array
+		+ functin is a object
 	+
 ---
 + ..
