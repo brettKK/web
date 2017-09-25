@@ -97,6 +97,12 @@ HTML CSS JS
 			+ angular js, jQuery, react, backbone
 		+ Server side frameworks
 			+ node.js
+
++ Scopes and Closures In-depth
+	+ frequently asked in job interviews
+	+ understanding Scopes
+	+ Compilation and Interpretation
+	+ Closures
 ---
 + ..
 	+ 表单验证 ***
