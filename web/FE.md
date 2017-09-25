@@ -85,7 +85,18 @@ HTML CSS JS
 		+ no type for argument
 		+ arguments in function is not a array
 		+ functin is a object
-	+
+	+ Arrays
+		+ inbuilt objects
+		+ push, pop, shift, etc Array methods
+		+ forEach accept a function as a arguments, like Java8 function interface
+	+ next steps
+	 	+ Scopes and closures
+		+ Objects and Prototypes
+		+ Asynchronous javascript - Callbacks and Promises
+		+ Client side frameworks
+			+ angular js, jQuery, react, backbone
+		+ Server side frameworks
+			+ node.js
 ---
 + ..
 	+ 表单验证 ***
