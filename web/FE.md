@@ -4,23 +4,24 @@ HTML CSS JS
 	+ HTML5
 	+ 表单form
 + HTML DOM树
-		+ 改变HTML元素的innerHTML（在文档加载之后使用document.write()
-			+ document.getElementById()
-			+ innerHTML
-			+ attribute(src, style.color,style.visibility,...)
-		+ 改变css
-			+ ....
-		+ 对事件反应
-			+ onclick
-			+ document.getElementById("id").onclick=function(){displayDate()};
-			+ onload,onunload
-			+ input  text onchange
-			+ onmouseover,onmouseout
-			+ onmousedown,onmouseup, onclick
-		+ 添加和删除HTML元素
-			+ document.createElement
-			+ document.createTextNode
-			+ appendChild, removeChild. child.parentNode.removeChild(child)
+	+ 改变HTML元素的innerHTML（在文档加载之后使用document.write()
+	+ document.getElementById()
+	+ innerHTML
+	+ attribute(src, style.color,style.visibility,...)
+	+ 改变css
+		+ ....
+	+ 对事件反应
+		+ onclick
+		+ document.getElementById("id").onclick=function(){displayDate()};
+		+ onload,onunload
+		+ input  text onchange
+		+ onmouseover,onmouseout
+		+ onmousedown,onmouseup, onclick
+	+ 添加和删除HTML元素
+		+ document.createElement
+		+ document.createTextNode
+		+ appendChild, removeChild. child.parentNode.removeChild(child)
+		
 + CSS
 
 ---
@@ -101,6 +102,8 @@ HTML CSS JS
 + Scopes and Closures In-depth
 	+ frequently asked in job interviews
 	+ understanding Scopes
+		+ code block doesn't create a scopes
+		+ only function create a scope
 	+ Compilation and Interpretation
 	+ Closures
 ---
