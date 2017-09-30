@@ -21,7 +21,7 @@ HTML CSS JS
 		+ document.createElement
 		+ document.createTextNode
 		+ appendChild, removeChild. child.parentNode.removeChild(child)
-		
+
 + CSS
 
 ---
@@ -104,6 +104,8 @@ HTML CSS JS
 	+ understanding Scopes
 		+ code block doesn't create a scopes
 		+ only function create a scope
+		+ annoymous function
+			+ IIFE, immediately invoked function expression
 	+ Compilation and Interpretation
 	+ Closures
 ---
