@@ -106,6 +106,12 @@ HTML CSS JS
 		+ only function create a scope
 		+ annoymous function
 			+ IIFE, immediately invoked function expression
+		+ read operation, write operation
+			+ a = 10, is ok, can do wirte operation without declaration
+			+ can not do read operation without declaration
+		+ the window object
+			+ contains all global variables
+			+ when you create a new global variable( also new functions), actually you add a property on the window object(global object)
 	+ Compilation and Interpretation
 	+ Closures
 ---
