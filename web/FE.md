@@ -112,7 +112,13 @@ HTML CSS JS
 		+ the window object
 			+ contains all global variables
 			+ when you create a new global variable( also new functions), actually you add a property on the window object(global object)
+		+ the global scope problem
+			+ in function scope, like a = 10 without var, a is global variable
 	+ Compilation and Interpretation
+		+ console.log(a)
+			+ a reference error
+		+ console.log(a); var a = 10;
+			+ undefined
 	+ Closures
 ---
 + ..
