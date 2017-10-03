@@ -119,7 +119,13 @@ HTML CSS JS
 			+ a reference error
 		+ console.log(a); var a = 10;
 			+ undefined
+		+ hoisting
+			+ no matter where to declare the vars,  the compiler first get the vars at the top
+		+ Using Strict mode
+				+ "use strict";
 	+ Closures
+		+
+		+
 ---
 + ..
 	+ 表单验证 ***
