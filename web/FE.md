@@ -124,7 +124,7 @@ HTML CSS JS
 		+ Using Strict mode
 				+ "use strict";
 	+ Closures
-		+
+		+ 
 		+
 ---
 + ..
