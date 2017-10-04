@@ -124,8 +124,13 @@ HTML CSS JS
 		+ Using Strict mode
 				+ "use strict";
 	+ Closures
-		+ 
-		+
+		+ setTimeout(func, 1000);
+		+ the module pattern
+		+ closures in async callbacks
+---
+
+javascript objects and prototypes in depth
+
 ---
 + ..
 	+ 表单验证 ***
